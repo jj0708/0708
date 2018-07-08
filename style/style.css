@@ -1,0 +1,13 @@
+.coverWap{
+    float: left;
+    width: 84px;
+    height: 112px;
+}
+.bookName{
+    overflow: hidden;
+    width: 221px;
+    height: 22px;
+    line-height: 22px;
+    font-size: 16px;
+    color: #333;
+}
